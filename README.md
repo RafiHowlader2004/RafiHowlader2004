@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey there! 👋 I'm Rafi
 
-<!--
-**RafiHowlader2004/RafiHowlader2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a postgrad student based in London, who enjoys turning data into insights and building cool things with Python & machine learning.  
+If an idea sounds interesting… I’ll probably try to build it 🚀
 
-Here are some ideas to get you started:
+🎓 MSc Data Science | Queen Mary University of London 🏛️
+💻 BSc Computer Science | University of Greenwich ⚓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech I Use
+
+Python • SQL • Data Engineering • Machine Learning • Data Visualisation • Geospatial & Time Series
+
+⚡ Fun Facts
+🚗 Car Enthusiast
+🎮 Gaming: Currently enjoying [Rainbow Six Siege, The Crew Motorfest].
+🐈 My feline "co-author" usually supervises my coding sessions.
